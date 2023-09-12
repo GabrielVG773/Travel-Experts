@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TravelExperts
+build_property.RootNamespace = TravelExperts
+build_property.ProjectDir = C:\Users\gvgom\Downloads\PROJ-207-Project-2-Part-2-main (1)\PROJ-207-Project-2-Part-2-main\TravelExperts\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gvgom\Downloads\PROJ-207-Project-2-Part-2-main (1)\PROJ-207-Project-2-Part-2-main\TravelExperts
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Account/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVcGRhdGVQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Bookings/MyBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcTXlCb29raW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Bookings/PastBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcUGFzdEJvb2tpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Checkout/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcVGhhbmtZb3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Home/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Packages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Register/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Register/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcV2VsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Shared/_loginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gvgom/Downloads/PROJ-207-Project-2-Part-2-main (1)/PROJ-207-Project-2-Part-2-main/TravelExperts/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qr24eq8mll
